@@ -16,7 +16,7 @@ Remote Policy Enforcement: Simulates the ability to "lock" or "hide" non-educati
 
 
 
-Role-Based Access Control (RBAC): Distinct entry points for Administrators (Directors,use 123456 password to try) and Users (Students, use any number or name for just trial), protected by credential-based authentication.
+Role-Based Access Control (RBAC): Distinct entry points for Administrators (Directors, use 123456 password to try) and Users (Students, use any number or name for just trial), protected by credential-based authentication.
 
 Privacy-Preserving Analytics: High-level usage tracking that focuses on "Time-on-Task" rather than intrusive content monitoring, adhering to ethical surveillance standards.
 
