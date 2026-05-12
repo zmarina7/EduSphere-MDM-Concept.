@@ -1,4 +1,4 @@
-EduSphere MDM (Mobile Device Management)
+📁EduSphere MDM (Mobile Device Management)
 
 Subtitle: A Centralized Policy Framework for Educational Device Security
 
