@@ -46,5 +46,5 @@ Local Storage Persistence: Ensuring student study plans are saved securely on th
 
 This project aims to support Ethiopia's Digital Sovereignty by creating localized, secure infrastructure for our schools. It reduces reliance on foreign management tools while ensuring our students remain focused, disciplined, and goal-oriented.
 
- ##Developed by Tifsihit Zelealem for school project
+ ##Developed by Tifsihit Zelealem for school project.
 
